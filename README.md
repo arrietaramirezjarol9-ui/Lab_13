@@ -100,4 +100,3 @@ A continuación se consolidan las métricas clave obtenidas en la evaluación de
 | **CNN Dígitos Manuscritos** | Accuracy | **98.70%** | 0.0514 | Muestra de errores, Modelo `.keras` |
 | **NLP Análisis de Sentimientos**| F1-Score | **78.91%** | N/A | Pipeline unificado, Gráficos |
 
-*Los análisis individuales, justificaciones de negocio, limitaciones y respuestas a los cuestionarios teóricos correspondientes a cada tema se encuentran detallados en el archivo `informe_laboratorio.md` de cada subcarpeta.*
